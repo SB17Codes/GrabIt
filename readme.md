@@ -17,10 +17,6 @@ GrabIt est une application mobile innovante de commerce électronique conçue po
 - 💥 Création et gestion des promotions
 - 📊 Analyse des ventes et commandes
 
-## 🚀 Démonstration de l'Application
-
-### Lien de Démonstration
-[Démo GrabIt sur Google Drive](https://drive.google.com/file/d/1A3laUGcWH5TmuS4AuvXfxOdACWb6LqYQ/view?usp=sharing)
 
 ## 💻 Technologies Utilisées
 
