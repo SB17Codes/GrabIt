@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GrabIt</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="shop_title">Grab It!</string>
+    <string name="nav_drawer_close">Close</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="logout_title">Logout\n</string>
+    <string name="logout_message">Logout of your account\n</string>
+    <string name="yes">Confirm\n</string>
+    <string name="no">Cancel</string>
+    <string name="error">error</string>
+    <string name="ok">Ok</string>
+    <string name="search_products">Chercher des produits</string>
+    <string name="home">Accueil</string>
+    <string name="categories">Categories</string>
+    <string name="orders">Commandes\n</string>
+    <string name="profile">Profile</string>
+    <string name="checkout">Checkout</string>
+    <string name="add_product">Ajouter un produit</string>
+    <string name="commands" />
+    <string name="logout" />
+    <string name="cart" />
+    <string name="dashboard">dashboard</string>
+    <string name="offers">offers</string>
+    <string name="products">offers</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GrabIt" parent="Theme.Material3.DayNight.NoActionBar"/>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Theme.App" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:colorBackground">@color/surface</item>
+        <item name="colorError">@color/error</item>
+    </style>
+
+    <style name="Theme.GrabIt" parent="Base.Theme.GrabIt" />
+</resources>

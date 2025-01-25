@@ -1,0 +1,29 @@
+<!-- colors.xml -->
+<resources>
+    <color name="primary">#DE9151</color>         <!-- Persian orange -->
+    <color name="primaryDark">#BC5D2E</color>     <!-- Burnt orange -->
+    <color name="accent">#F34213</color>          <!-- Coquelicot -->
+    <color name="background">#2E2E3A</color>      <!-- Raisin black -->
+    <color name="surface">#BBB8B2</color>         <!-- Silver -->
+
+    <color name="primaryContainer">#FFFFFF</color>
+    <color name="secondary" >#F5F5F5</color>
+    <color name="secondaryContainer">#F5F5F5</color>
+
+    <!-- Additional semantic colors -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onBackground">#FFFFFF</color>
+    <color name="onSurface">#2E2E3A</color>
+    <color name="error">#F34213</color>           <!-- Using Coquelicot for error -->
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="pending_status">#FFA000</color>
+    <color name="processing_status">#1976D2</color>
+    <color name="shipped_status">#388E3C</color>
+    <color name="delivered_status">#2E7D32</color>
+
+    <!-- Price Color -->
+    <color name="price_color">#D32F2F</color>
+
+</resources>
